@@ -1,0 +1,41 @@
+What is use in this project?
+NOTE:- register, login, logout, create_Post, admins, navbar, home, footer, Dashboard, 
+1. Vite
+2. Tailwind CSS
+3. React
+4. Express.js
+5. nodemon
+6. .env
+7. mongoose
+8. validator
+9. hoppscotch
+10. MVC
+11. Schema
+12. async
+13. await
+14. fileUpload
+15. Cloudinary
+16. photo formate
+17. bcryptjs
+18. JWT(JsonWebToken)
+19. Authentication and Authorization20. middleware (next)
+21. Coockies (cookie-parser)
+22. try and catch
+23. react-router-dom
+24. BrowserRouter
+25. HideNavbarFooter for Login,Dashboard,Register
+26. context api
+27. setBlogs -> is a function
+28. axios 
+29. cors
+30. react icon
+31. react-icons github page 
+32. google fonts :- poppins, roboto, Fredoka
+33. react hot toast
+34. map function with key
+35. react-multi-carousle
+36. reacat-hook-form
+37. web3forms API
+38. js-cookie
+39. menu bar react icon
+40. 
